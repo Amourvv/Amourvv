@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm now a PhD student in Hrbin Institute of Technology and my research direction is satellite communications. Specifically, I'm researching on the resources allocation of heterogenous satellite networks that consists of GEO, LEO and terrestrial networks.
+
+I'm working on stochastic geometry and LLM. 
 
 <!--
 **Amourvv/Amourvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
